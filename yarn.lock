@@ -195,7 +195,7 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/router@~7.0.0":
+"@angular/router@^7.0.3":
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/@angular/router/-/router-7.0.3.tgz#7cf86ad1667a892998ec3670ab7ba0b2b373c24a"
   integrity sha512-885svORDpD9DkaMKjvGwn4g5bf0n3JR8os+gCNhzk0p4TPfpc+vmNo8SyY2jwdLMh2rQzrUQTDkn9SzzgiOfDQ==
