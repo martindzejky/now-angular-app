@@ -8,5 +8,15 @@
         "useBuildUtils": "@now/build-utils@canary"
       }
     }
+  ],
+  "routes": [
+    {
+      "src": "(.*\\..*)",
+      "dest": "$1"
+    },
+    {
+      "src": ".*",
+      "dest": "/index.html"
+    }
   ]
 }
